@@ -1,0 +1,6 @@
+C:\csharp\servpingpong\servpingpong\bin\Debug\servpingpong.exe.config
+C:\csharp\servpingpong\servpingpong\bin\Debug\servpingpong.exe
+C:\csharp\servpingpong\servpingpong\bin\Debug\servpingpong.pdb
+C:\csharp\servpingpong\servpingpong\obj\Debug\servpingpong.csprojResolveAssemblyReference.cache
+C:\csharp\servpingpong\servpingpong\obj\Debug\servpingpong.exe
+C:\csharp\servpingpong\servpingpong\obj\Debug\servpingpong.pdb
